@@ -1,0 +1,29 @@
+.main
+{
+	background:#f1f1f1; 
+	margin-left: 30%;
+	margin-right: 30%;  
+	padding-top:20px;
+}
+ 
+ .main h1
+{
+  font-size: 25px;
+  text-align: center;
+}
+
+.main h2
+{
+	font-size: 20px;
+	text-align: center;
+}
+
+.main a
+{
+	font-size: 20px;
+	color: blue;
+}
+.links
+{
+	margin-left: 10%;
+}
